@@ -38,7 +38,7 @@ class InstagramBot:
         self.escolherPerfis()
 
     def escolherPerfis(self):
-        pag = "bolsonaro"
+        pag = "PAGINA ALVO"
         # Página Alvo
         self.driver.get(
             "https://www.instagram.com/"+pag)
