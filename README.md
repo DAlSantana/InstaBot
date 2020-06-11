@@ -1,4 +1,4 @@
-<h1> Bot para seguir pessoas de uma página no Instagram </h1>
+<h1> Bot para seguir pessoas</h1>
 </br>
 <h2>Passo a passo </h2>
 </br>
