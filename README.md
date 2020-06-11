@@ -1,4 +1,3 @@
-"# InstaBot"
 
 <h1> Bot para seguir pessoas de uma página no Instagram </h1>
 </br>
